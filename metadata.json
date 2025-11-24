@@ -1,0 +1,7 @@
+{
+  "name": "antcpu Creator Studio",
+  "description": "A comprehensive AI-powered content creation suite for the antcpu brand, featuring image generation, strategy analysis, and next-gen video tools.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
